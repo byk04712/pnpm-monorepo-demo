@@ -65,7 +65,7 @@ function fun2() {
 export default fun2;
 ```
 
-分别在 pkg1 和 pkg2 下新增 `.fatherrc.ts` 和 `tsconfig.ts` 配置文件。
+分别在 pkg1 和 pkg2 下新增 `.fatherrc.ts` 和 `tsconfig.json` 配置文件。
 
 ```ts
 // .fatherrc.ts
